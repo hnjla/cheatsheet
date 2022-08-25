@@ -1,0 +1,44 @@
+
+.title {
+    color:hotpink;
+    text-align: center;
+}
+
+.titleh2 {
+    color:darkorchid;
+    text-align: center;
+}
+
+.tabletitle {
+    color:indigo;
+    background-color:lightskyblue;
+    text-align: center;
+}
+
+.tag {
+    background-color:antiquewhite;
+}
+
+.body {
+
+}
+
+.titlefooter {
+    color:darkorchid;
+    text-align: center;
+}
+
+body {
+    font-family:monospace;
+}
+
+table {
+    text-align: left;
+    border: 1px solid hotpink;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+tbody, td {
+    border-bottom: 1px solid hotpink;
+}
